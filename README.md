@@ -1,16 +1,26 @@
-# piano
+# Piano 🎹
 
-A new Flutter project.
+A Flutter app I built that simulates a simple piano.  
+Tap the keys to play musical notes.
+
+---
+
+## Features
+- 🎶 Interactive piano keys (tap to play sounds)  
+- 🔊 Multiple notes with clear sound  
+- 🎨 Simple and user-friendly interface  
+- 📱 Works on Android/iOS  
+
+---
+
+## How to Play
+1. Open the app.  
+2. Tap on any key to hear the sound.  
+3. Play melodies by pressing different keys.  
+
+---
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+flutter pub get
+flutter run
